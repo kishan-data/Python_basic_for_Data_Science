@@ -22,8 +22,39 @@ This project helped me strengthen programming fundamentals before moving to libr
 
 🛠 Tools used
 
-    Python 3
+Python 3
 
-    Jupyter Notebook
+Jupyter Notebook
 
-    Git and Github
+Git and Github
+
+Python_basic_for_Data_Science/
+│
+├── Python_Withoutcode.ipynb
+└── README.md
+
+🚀 What I Learned
+
+Writing clean Python code
+
+Debugging common errors
+
+Understanding logic building
+
+Managing projects using Git & Github
+
+📈 Next Goals
+
+Numpy
+
+Pandas
+
+Data Cleaning
+
+Exploratory Data Analysis
+
+Author
+
+Kishan
+Data Science Learner
+Learning in public 🚀
