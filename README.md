@@ -3,9 +3,8 @@
 📖 About This Project
 
 In this notebook, I practiced core Python concepts required for Data Science:
-In this notebook, I practiced core Python concepts required for Data Science:
 
-✅ Variables & Data Types
+✅ Variables & Data Types Varibalbe
 
 ✅ Conditional Statement (if-else)
 
