@@ -53,7 +53,4 @@ Data Cleaning
 Exploratory Data Analysis
 
 Author
-
-Kishan
-Data Science Learner
-Learning in public 🚀
+Kishan Aspiring Data Scientist | Python & Machine Learning Enthusiast
